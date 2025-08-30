@@ -28,7 +28,7 @@
 *Full Stack Developer*  
 Designed and built a user-friendly interface for AI-driven conversations powered by the Ollama API. Integrated access to multiple models (Gemma, DeepSeek, and Mistral) for flexible and dynamic interactions, delivering seamless real-time AI responses.
 
-#### [Real E-State](#)
+#### [Real E-State](https://github.com/danidev7777/realestate)
 *Full Stack Developer*  
 Built a MERN-based real estate platform featuring authentication, agent portal, property CRUD, loan calculator, and messaging. Delivered a responsive, dynamic UX using TailwindCSS.
 
