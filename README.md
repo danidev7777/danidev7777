@@ -24,7 +24,7 @@
 
 ### 🌟 Favorite Projects
 
-#### [PandaAI](#)
+#### [PandaAI]([#](https://github.com/danidev7777/panda-ai))
 *Full Stack Developer*  
 Designed and built a user-friendly interface for AI-driven conversations powered by the Ollama API. Integrated access to multiple models (Gemma, DeepSeek, and Mistral) for flexible and dynamic interactions, delivering seamless real-time AI responses.
 
